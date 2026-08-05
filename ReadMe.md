@@ -49,27 +49,21 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+
 <br clear="both"/>
 
-<!-- Snake Contribution -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xeerodev/Xeerodev/output/snake.svg" alt="Snake animation"/>
+  <img src="./assets/snake.svg" alt="Snake Animation"/>
 </p>
 
-<!-- Pacman Contribution -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xeerodev/Xeerodev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xeerodev/Xeerodev/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Xeerodev/Xeerodev/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="./assets/pacman-contribution-graph.svg">
   </picture>
 </p>
-
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xeerodev&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
