@@ -27,6 +27,8 @@
 </p>
 
 
+
+
 ---
 
 # 📊 GitHub Stats
@@ -56,7 +58,20 @@
       src="https://raw.githubusercontent.com/Xeerodev/myprofilegithub/snake-output/github-contribution-grid-snake.svg">
   </picture>
 </p>
----
+
+## 🌼 Contribution Pacman
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Xeerodev/myprofilegithub/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Xeerodev/myprofilegithub/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Xeerodev/myprofilegithub/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+</p>
 
 ## 📈 Contribution Graph
 
@@ -64,6 +79,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true"/>
 </p>
 
+## 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Xeerodev/myprofilegithub/trophy-output/trophy.svg"/>
+</p>
 ---
 
 
