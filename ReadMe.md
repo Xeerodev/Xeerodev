@@ -10,17 +10,7 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="250" src="https://i.imgflip.com/65efzo.gif"/>
 
- 💫 About Me
-
-- 💻 Fullstack Developer
-- 📱 Flutter Developer
-- 🌐 Laravel Developer
-- 🚀 Love Open Source
-- 🎯 Always learning new technology
-
-<br>
 
 ## 🌐 Socials
 
@@ -32,8 +22,10 @@
 # 💻 Tech Stack
 
 <p align="center">
+ <img align="right" alt="Coding" width="250" src="https://i.imgflip.com/65efzo.gif"/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,sqlite,firebase,html,css,js,bootstrap,tailwind,nodejs,react,nextjs,vue,vite,python,java,git,github,docker,postman,linux,nginx,figma,vscode,androidstudio&perline=8"/>
 </p>
+
 
 ---
 
