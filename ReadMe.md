@@ -18,7 +18,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@this_psyco)
 
 <br clear="both"/>
----
+
 
 # 💻 Tech Stack
 
@@ -76,13 +76,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true"/>
 </p>
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Xeerodev/myprofilegithub/trophy-output/trophy.svg"/>
-</p>
----
 
 
 <h3 align="center">
