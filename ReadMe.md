@@ -12,13 +12,15 @@
 ---
 <img align="right" alt="Coding" width="250" src="https://i.imgflip.com/65efzo.gif"/>
 
-# 💫 About Me
+ 💫 About Me
 
 - 💻 Fullstack Developer
 - 📱 Flutter Developer
 - 🌐 Laravel Developer
 - 🚀 Love Open Source
 - 🎯 Always learning new technology
+
+<br>
 
 ## 🌐 Socials
 
@@ -38,77 +40,37 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xeerodev&show_icons=true&theme=radical"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeerodev&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 ---
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Xeerodev&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
+<br clear="both"/>
 
-![](https://github-contributor-stats.vercel.app/api?username=Xeerodev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Snake Contribution -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Xeerodev/Xeerodev/output/snake.svg" alt="Snake animation"/>
+</p>
 
----
-
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?theme=dracula" height="150"/>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?theme=dracula" height="150"/>
-</div>
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30"/>
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg"/>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=maurodesouza&theme=dracula" height="150"/>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula" height="150"/>
-</div>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-<img alt="pacman" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
----
-
-## 🚀 Current Projects
-
-- Offline POS Flutter
-- School Management System
-- Koran Lubangsa App
-- AI Integrated Applications
-- Laravel Dashboard
+<!-- Pacman Contribution -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xeerodev/Xeerodev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xeerodev/Xeerodev/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Xeerodev/Xeerodev/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=Xeerodev&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
