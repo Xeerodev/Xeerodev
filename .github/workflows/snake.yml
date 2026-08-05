@@ -1,9 +1,6 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
@@ -21,11 +18,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to snake-output
+      - name: Push to snake-output
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: snake-output
           publish_dir: dist
+          publish_branch: snake-output
