@@ -10,24 +10,9 @@
 </p>
 
 ---
+<img align="right" alt="Coding" width="250" src="https://i.imgflip.com/65efzo.gif"/>
 
 # 💫 About Me
-
-```dart
-class AboutMe {
-  final String name = "Moh. Zainur Rozy";
-  final String country = "Indonesia";
-  final List<String> skills = [
-    "Flutter",
-    "Laravel",
-    "PHP",
-    "Dart",
-    "JavaScript",
-    "MySQL",
-    "Firebase"
-  ];
-}
-```
 
 - 💻 Fullstack Developer
 - 📱 Flutter Developer
@@ -53,12 +38,12 @@ class AboutMe {
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xeerodev&show_icons=true&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeerodev&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
@@ -79,7 +64,6 @@ class AboutMe {
 
 ---
 
-<h2 align="left">Hi 👋! My name is Moh. Zainur Rozy and I'm a Fullstack Developer, from Indonesia 🇮🇩</h2>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?theme=dracula" height="150"/>
