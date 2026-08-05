@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./github-header-banner.png" width="100%">
+<img src="assets/profile.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Moh. Zainur Rozy</h1>
@@ -52,18 +52,22 @@
 
 <br clear="both"/>
 
-<p align="center">
-  <img src="./assets/snake.svg" alt="Snake Animation"/>
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="./assets/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Xeerodev/Xeerodev/snake-output/snake.svg" alt="Snake Animation"/>
 </p>
+
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true"/>
+</p>
+
+---
+
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
