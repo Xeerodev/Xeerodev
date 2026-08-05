@@ -17,6 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aku.zennn)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@this_psyco)
 
+<br clear="both"/>
 ---
 
 # 💻 Tech Stack
@@ -26,12 +27,9 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,mysql,sqlite,firebase,html,css,js,bootstrap,tailwind,nodejs,react,nextjs,vue,vite,python,java,git,github,docker,postman,linux,nginx,figma,vscode,androidstudio&perline=8"/>
 </p>
 
+<br clear="both"/>
 
-
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical"/>
