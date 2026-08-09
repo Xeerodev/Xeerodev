@@ -32,9 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical&timezone=Asia/Jakarta"/>
 </p>
-
 ---
 
 ### ✍️ Random Dev Quote
@@ -74,9 +73,8 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true&v=1"/>
 </p>
-
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
