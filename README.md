@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Moh. Zainur Rozy</h1>
-<h3 align="center">Fullstack Developer • Flutter Developer • Laravel Developer • Open Source Enthusiast</h3>
+<h3 align="center">Fullstack Developer • Website Developer • Laravel Developer • Open Source Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Flutter+Developer;Laravel+Developer;Fullstack+Developer;Mobile+App+Developer;Always+Learning+New+Technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Website+Developer;Laravel+Developer;Mobile+App+Developer;Always+Learning+New+Technology"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical&timezone=Asia/Jakarta&v=2"/>
 </p>
----
+
 
 ### ✍️ Random Dev Quote
 
