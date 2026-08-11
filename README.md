@@ -1,5 +1,8 @@
 <p align="center">
-<img src="assets/banner.png" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=xeerodev&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=xeerodev&theme=neon" alt="xeerodev hero section" />
+  </picture>
 </p>
 
 <h1 align="center">Hi 👋, I'm Moh. Zainur Rozy</h1>
@@ -12,12 +15,25 @@
 ---
 
 
-## 🌐 Socials
+## 📊 GitHub Stats
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aku.zennn)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@this_psyco)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical&timezone=Asia/Jakarta&v=2"/>
+</p>
 
-<br clear="both"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=xeerodev&theme=satan&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=xeerodev&theme=satan" alt="xeerodev stats section" />
+  </picture>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true&v=1"/>
+</p>
+
 
 
 # 💻 Tech Stack
@@ -28,12 +44,6 @@
 </p>
 
 <br clear="both"/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical&timezone=Asia/Jakarta&v=2"/>
-</p>
 
 ### ✍️ Random Dev Quote
 
@@ -69,10 +79,25 @@
 </picture>
 </p>
 
-## 📈 Contribution Graph
+## 🌹 My Project
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=xeerodev&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=xeerodev&theme=neon" alt="xeerodev projects section" />
+  </picture>
+</p>
+
+
+## Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aku.zennn)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@this_psyco)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true&v=1"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=xeerodev&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=xeerodev&theme=neon" alt="xeerodev social section" />
+  </picture>
 </p>
 
 <h3 align="center">
