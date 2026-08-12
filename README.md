@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical&timezone=Asia/Jakarta&v=3"/>
+  <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical&timezone=Asia/Jakarta&v=1"/>
 </p>
 
 <p align="center">
