@@ -1,10 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=xeerodev&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=xeerodev&theme=neon" alt="xeerodev hero section" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/hero?username=xeerodev&theme=neon" alt="xeerodev hero section" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Moh. Zainur Rozy</h1>
 <h3 align="center">Fullstack Developer • Website Developer • Laravel Developer • Open Source Enthusiast</h3>
 
