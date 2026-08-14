@@ -68,26 +68,11 @@
 </picture>
 </p>
 
-## 🌹 My Project
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=xeerodev&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=xeerodev&theme=neon" alt="xeerodev projects section" />
-  </picture>
-</p>
-
 
 ## Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aku.zennn)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@this_psyco)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=xeerodev&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=xeerodev&theme=neon" alt="xeerodev social section" />
-  </picture>
-</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
