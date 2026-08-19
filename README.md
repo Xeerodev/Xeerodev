@@ -20,7 +20,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true&v=1"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true&v=3"/>
 </p>
 
 
