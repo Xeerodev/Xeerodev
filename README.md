@@ -17,12 +17,12 @@
   <img src="https://streak-stats.demolab.com?user=Xeerodev&theme=radical&timezone=Asia/Jakarta"/>
 </p>
 
-## 📈 Contribution Graph
+## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeerodev&theme=radical&hide_border=true&area=true"/>
+  <img src="https://img.shields.io/badge/GitHub-Winstreak%20Active-brightgreen?style=for-the-badge&logo=github" alt="Winstreak Active"/>
+  <img src="https://img.shields.io/badge/Profile-Xeerodev-blue?style=for-the-badge&logo=git" alt="Xeerodev"/>
 </p>
-
 
 
 # 💻 Tech Stack
